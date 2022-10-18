@@ -1,0 +1,1 @@
+rmdir C:\ProgramData\Adobe\Temp /S /Q
